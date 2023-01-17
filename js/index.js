@@ -1,3 +1,3 @@
 import strictEquals from "./strictEquals/strictEquals.js";
 
-console.log(strictEquals(24, 24));
+console.log(strictEquals(0, -0));
